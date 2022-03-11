@@ -13,7 +13,7 @@ Every repository will contain all documentation and links to my video repository
 more projects to come in 2022 as I'll finally become an engineer.\
 As soon as I get my degree I'll start documenting past project as well as starting new ones.
 
-you can also access my [Youtube channel](youtube.com/c/MadRigo/videos) but be aware I go beyond Embedded/Electronics/Engineering there.\
+you can also access my [Youtube channel](youtube.com/c/MadRigo/videos) (I go beyond Embedded/Electronics/Engineering)\
+or access my (LinkedIn profile)(linkedin.com/in/rodrigodmadruga/)
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rodrigodmadruga" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/rodrigodmadruga?trk=profile-badge">Rodrigo Daltoé Madruga</a></div>
-              
+
