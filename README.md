@@ -9,9 +9,10 @@ I'm passionate about engineering and music as it can be seen by my projects.
 Every repository will contain all documentation and links to my video repository on youtube.
 
 [MadSynth](https://github.com/Guidoz1k/MadSynth), a microcontroller based synthesizer in its fifth iteration.
+
 Second version             |  Fifth iteration
 :-------------------------:|:-------------------------:
-![](https://i.imgur.com/ednQf46.png)  |  ![](https://i.imgur.com/JKfhSjr.png)
+![](https://i.imgur.com/ednQf46.png)  |  ![](https://i.imgur.com/5mohxaE.png)
 
 
 more projects to come in 2022 as I'll finally become an engineer.\
