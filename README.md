@@ -15,7 +15,7 @@ Second version             |  Fifth iteration
 ![](https://i.imgur.com/ednQf46.png)  |  ![](https://i.imgur.com/5mohxaE.png)
 
 
-more projects to come in 2022 as I'll finally become an engineer.\
+more projects to come in 2022 as I'll finally be an engineer.\
 As soon as I get my degree I'll start documenting past project as well as starting new ones.
 
 you can also access my [Youtube channel](youtube.com/c/MadRigo/videos) (I go beyond Embedded/Electronics/Engineering)\
