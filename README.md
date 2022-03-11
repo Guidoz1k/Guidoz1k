@@ -14,7 +14,7 @@ Every repository will contain all documentation and links to my video repository
 
 Second version    |  Fifth iteration
 :-------------------------:|:-------------------------:
-![](https://i.imgur.com/ednQf46.png)  |  ![](https://i.imgur.com/5mohxaE.png)
+![](https://i.imgur.com/jkJ7Mzw.png)  |  ![](https://i.imgur.com/RAk690x.png)
 
 
 more projects to come in 2022 as I'll finally be an engineer.\
