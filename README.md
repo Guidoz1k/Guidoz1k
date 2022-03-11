@@ -1,4 +1,4 @@
-[![YouTube MadRigo](https://img.shields.io/badge/MadRigo's%20Underground%20Archives-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/c/MadRigo)[![LinkedIn Rodrigo D. Madruga](https://img.shields.io/badge/Rodrigo%20D.%20Madruga-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigodmadruga/)
+[![YouTube MadRigo](https://img.shields.io/badge/MadRigo's%20Underground%20Archives-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/c/MadRigo)  [![LinkedIn Rodrigo D. Madruga](https://img.shields.io/badge/Rodrigo%20D.%20Madruga-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigodmadruga/)
 
 #### Hi there!
 
