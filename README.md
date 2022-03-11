@@ -1,3 +1,5 @@
+[![YouTube MadRigo](https://img.shields.io/badge/MadRigo's%20Underground%20Archives-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/c/MadRigo)[![LinkedIn Rodrigo D. Madruga](https://img.shields.io/badge/Rodrigo%20D.%20Madruga-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigodmadruga/)
+
 #### Hi there!
 
 My name is Rodrigo and I'm a Brazilian Electronics Technician and Computer Engineer with a hardware emphasis.\
@@ -18,9 +20,6 @@ Second version             |  Fifth iteration
 more projects to come in 2022 as I'll finally be an engineer.\
 As soon as I get my degree I'll start documenting past project as well as starting new ones.
 
-#### External links
 
-[![YouTube MadRigo](https://img.shields.io/badge/MadRigo's%20Underground%20Archives-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/c/MadRigo)
-[![LinkedIn Rodrigo D. Madruga](https://img.shields.io/badge/Rodrigo%20D.%20Madruga-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigodmadruga/)
 
 
