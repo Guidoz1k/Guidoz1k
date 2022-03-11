@@ -18,7 +18,7 @@ Second version             |  Fifth iteration
 more projects to come in 2022 as I'll finally be an engineer.\
 As soon as I get my degree I'll start documenting past project as well as starting new ones.
 
-you can also access my [Youtube channel](youtube.com/c/MadRigo/videos) (I go beyond Embedded/Electronics/Engineering)\
-or access my [LinkedIn profile](https://www.linkedin.com/in/rodrigodmadruga/)
+[![YouTube MadRigo](https://img.shields.io/badge/MadRigo's%20Underground%20Archives-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/c/MadRigo)
+[![LinkedIn Rodrigo D. Madruga](https://img.shields.io/badge/Rodrigo%20D.%20Madruga-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigodmadruga/)
 
 
