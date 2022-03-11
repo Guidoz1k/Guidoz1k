@@ -8,7 +8,7 @@ I'm passionate about engineering and music as it can be seen by my projects.
 
 Every repository will contain all documentation and links to my video repository on youtube.
 
-###[MadSynth](https://github.com/Guidoz1k/MadSynth), a microcontroller based synthesizer in its fifth iteration.
+-=- [MadSynth](https://github.com/Guidoz1k/MadSynth), a microcontroller based synthesizer in its fifth iteration.
 
 Second version             |  Fifth iteration
 :-------------------------:|:-------------------------:
