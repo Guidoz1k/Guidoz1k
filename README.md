@@ -1,4 +1,4 @@
-##### Hi there!
+#### Hi there!
 
 My name is Rodrigo and I'm a Brazilian Electronics Technician and Computer Engineer with a hardware emphasis.\
 I've built my own home lab in 2016 in order to study Embedded Systems and since 2021 I've been documenting my projects online.\
