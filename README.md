@@ -14,9 +14,4 @@ Every repository will contain all documentation and links to my video repository
 
 
 
-more projects to come in 2022 as I'll finally be an engineer.\
-As soon as I get my degree I'll start documenting past project as well as starting new ones.
-
-
-
-
+more projects to come in 2023, stay tuned ;) \
