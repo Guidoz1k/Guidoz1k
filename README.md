@@ -2,7 +2,8 @@
 
 ### Hi there!
 
-My name is Rodrigo and I'm a Brazilian Electronics Technician and Computer Engineer with a hardware emphasis.\
-I've built my own home lab in 2016 in order to study Embedded Systems and since 2021 I've been documenting my projects online.\
-I'm passionate about engineering and music as it can be seen by my projects.
-Currently working on drones and synthesizers.
+My name is Rodrigo and I'm a Brazilian Electronics Technician and Computer Engineer.\
+I'm very passionate about all things embedded, and some other random things in between.\
+I've built my own home lab in 2016 to study embedded systems and since 2021 I've been documenting my projects online.\
+For the time being, I have a provisory channel on youtube as a repository, with content ranging from engineering to silly videos.\
+Feel free to check my videos or hit me up on LinkedIn :)
