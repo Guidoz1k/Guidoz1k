@@ -11,6 +11,8 @@ Feel free to check my videos or hit me up on LinkedIn:
 
 [![LinkedIn Rodrigo D. Madruga](https://img.shields.io/badge/Rodrigo%20D.%20Madruga-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigodmadruga/)
 
-And if you like simulator games, I have a long format gameplay channel:
+If you like simulator games, I have a long format gameplay channel:
 
 [![YouTube MadRigo](https://img.shields.io/badge/Rigo%20Simulations-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@madrugation)
+
+E se tu falas português, aqui estão minhas participações no canal do Embarcados: [Link](https://github.com/Guidoz1k/PartEmb/tree/main)
