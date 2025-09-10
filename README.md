@@ -16,4 +16,5 @@ If you like simulator games, I have a long format gameplay channel:
 
 [![YouTube MadRigo](https://img.shields.io/badge/Rigo%20Simulations-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@madrugation)
 
-E se tu falas português, aqui estão minhas participações no canal do Embarcados: [Link](https://github.com/Guidoz1k/PartEmb/tree/main)
+E se tu falas português, eu faço uma live toda última sexta-feira do mês com o pessoal da Embarcados.\
+Aqui estão minhas participações no canal do Embarcados: [Link](https://github.com/Guidoz1k/PartEmb/tree/main)
