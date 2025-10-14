@@ -2,7 +2,7 @@
 
 My name is Rodrigo and I'm a Brazilian Electronics Technician and Computer Engineer.\
 I'm very passionate about all things embedded, and some other random things in between.\
-I've built my own home lab in 2016 to study embedded systems and since 2021 I've been documenting my projects online.\
+I've built my own home lab in 2016 to study embedded systems and since 2021 I've been documenting my projects online.
 
 My main channel is a Brazilian channel dedicated to engineering and embedded systems:
 
