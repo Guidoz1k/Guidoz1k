@@ -8,7 +8,7 @@ My main channel is a Brazilian channel dedicated to engineering and embedded sys
 
 [![YouTube Lab do Rodrigo](https://img.shields.io/badge/Lab%20do%20Rodrigo-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@labrodrigo)
 
-I also have a secundary channel on youtube in english, that serves me more as a repository, with content ranging from engineering to silly videos:
+I also have a secundary channel on youtube in english, that serves me more as a repository, with some engineering things and silly stuff:
 
 [![YouTube MadRigo](https://img.shields.io/badge/Rigo's%20Archives-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/c/MadRigo)
 
