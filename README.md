@@ -6,7 +6,7 @@ I've built my own home lab in 2016 to study embedded systems and since 2021 I've
 
 My main channel is a Brazilian channel dedicated to engineering and embedded systems:
 
-[![YouTube Lab do Rodrigo](https://img.shields.io/badge/Lab%20do%20Rodrigo-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@labrodrigo)
+[![YouTube PatoLógico](https://img.shields.io/badge/Lab%20do%20Rodrigo-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@labrodrigo)
 
 I also have a secundary channel on youtube in english, that serves me more as a repository, with some engineering things and silly stuff:
 
