@@ -20,7 +20,7 @@ If you like simulator games, I have a long format gameplay channel:
 
 [![YouTube rigosims](https://img.shields.io/badge/Rigo%20Simulations-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@rigosims)
 
-And if you like music, I've started learning how to make coherent noise:
+And if you like music, I've started learning how to make coherent noise (WIP):
 
 [![YouTube gansaudio](https://img.shields.io/badge/GansAudio-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@gansaudio)
 
