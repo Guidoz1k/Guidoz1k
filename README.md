@@ -4,7 +4,7 @@ My name is Rodrigo and I'm a Brazilian Electronics Technician and Computer Engin
 I'm very passionate about all things embedded, and some other random things in between.\
 I've built my own home lab in 2016 to study embedded systems and since 2021 I've been documenting my projects online.
 
-My main channel is a Brazilian channel dedicated to engineering and embedded systems:
+My main channel is a Brazilian channel dedicated to engineering and embedded systems (WIP):
 
 [![YouTube PatoLógico](https://img.shields.io/badge/Pato%20Lógico-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@labrodrigo)
 
@@ -18,7 +18,11 @@ Feel free to check my videos or hit me up on LinkedIn:
 
 If you like simulator games, I have a long format gameplay channel:
 
-[![YouTube MadRigo](https://img.shields.io/badge/Rigo%20Simulations-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@rigosims)
+[![YouTube rigosims](https://img.shields.io/badge/Rigo%20Simulations-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@rigosims)
+
+And if you like music, I've started learning how to make coherent noise:
+
+[![YouTube gansaudio](https://img.shields.io/badge/GansAudio-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@gansaudio)
 
 E se tu falas português, eu faço uma live toda última sexta-feira do mês com o pessoal da Embarcados.\
 Aqui estão minhas participações no canal do Embarcados: [Link](https://github.com/Guidoz1k/PartEmb/tree/main)
